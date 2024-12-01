@@ -1,4 +1,4 @@
 Hola
 Buenas
-quieo salir
+quiro salir
 de esta carcel por favor
